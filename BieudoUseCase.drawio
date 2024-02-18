@@ -1,0 +1,791 @@
+<mxfile host="Electron" modified="2024-01-31T01:57:08.812Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.0.2 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="H2a2f4pwT0FQvtQeNKhh" version="23.0.2" type="device">
+  <diagram name="Page-1" id="CKTI-sUiN8h-JDVAE_mS">
+    <mxGraphModel dx="2800" dy="1610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-95" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-2" target="E_Hgg75pYsPL08Vu1u3X-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-98" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-2" target="E_Hgg75pYsPL08Vu1u3X-97" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-204" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-2" target="E_Hgg75pYsPL08Vu1u3X-203" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-2" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Chương 2&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-1210" y="2990" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-6" target="E_Hgg75pYsPL08Vu1u3X-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="210" />
+              <mxPoint x="490" y="75" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-43" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-6" target="E_Hgg75pYsPL08Vu1u3X-42" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-6" value="Quan hệ giữa vật chất và ý thức" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="180" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-15" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-12" target="E_Hgg75pYsPL08Vu1u3X-14" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="75" />
+              <mxPoint x="670" y="-270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-17" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="-190" as="targetPoint" />
+            <mxPoint x="640" y="65" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="701" y="75" />
+              <mxPoint x="701" y="-190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-31" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-12" target="E_Hgg75pYsPL08Vu1u3X-28" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="75" />
+              <mxPoint x="720" y="-50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-36" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-12" target="E_Hgg75pYsPL08Vu1u3X-35" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="710" y="75" />
+              <mxPoint x="710" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-39" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-12" target="E_Hgg75pYsPL08Vu1u3X-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-41" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-12" target="E_Hgg75pYsPL08Vu1u3X-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-12" value="Vật chất" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="530" y="50" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-14" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Vật chất: Là 1 phạm trù nền tảng của chủ nghĩa duy vật trong TH, là kết quả của sự khái quát hoá, trừ tượng hoá các thuộc tính, các mối liên hệ có vốn của sự vật, hiện tượng; phản ánh cái chung, vô hạn, vô tận, không sinh ra và không mất đi&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="760" y="-300" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-16" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Vật chất quyết định ý thức&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="760" y="-200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-18" value="Nguồn gốc hình thành ý thức&lt;br/&gt;&lt;br&gt;&lt;br&gt;Nội dung ý thức&lt;br/&gt;&lt;br&gt;&lt;br&gt;Sự biến đổi, phát triển của ý thức&lt;br/&gt;&lt;br&gt;&lt;br&gt;Bản chất của ý thức" style="text;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="980" y="-240" width="230" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-19" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.01;entryY=0.092;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-16" target="E_Hgg75pYsPL08Vu1u3X-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-20" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.01;entryY=0.347;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-16" target="E_Hgg75pYsPL08Vu1u3X-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.636;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-16" target="E_Hgg75pYsPL08Vu1u3X-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="950" y="-185" />
+              <mxPoint x="950" y="-138" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-26" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.006;entryY=0.903;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-16" target="E_Hgg75pYsPL08Vu1u3X-18" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="-185" />
+              <mxPoint x="940" y="-95" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-34" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-28" target="E_Hgg75pYsPL08Vu1u3X-32" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="940" y="-50" />
+              <mxPoint x="940" y="-10" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-28" value="Hình thức tồn tại của vật chất" style="text;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="760" y="-60" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-32" value="Không gian&lt;br/&gt;&lt;br&gt;&lt;br&gt;Thời gian" style="text;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="980" y="-70" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-33" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=-0.033;entryY=0.158;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-28" target="E_Hgg75pYsPL08Vu1u3X-32" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-35" value="Phương thúc tồn tại của vật chất là vận động, là tất cả những gì tồn tại khách quan" style="text;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="760" y="40" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-37" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Vật chất - Vô hạn &amp;gt;&amp;lt; Dạng cụ thể vật chất - Hữu hạn&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="760" y="90" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-40" value="Bản chất vật chất và tính thống nhất vật chất của thế giới là kết luận được rút ra từ việc khái quát những thành tựu của khoa học, được khoa học và cuộc sống hiện thực của con người kiểm nghiệm. Nó không chỉ định hướng cho con người giải thích về tính đadạng của thế giới mà còn định hướng cho con người tiếp tục nhận thức về tính đa dạng ấyđể thực hiện quá trình cải tạo hợp qui luật" style="text;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="760" y="140" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-45" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-42" target="E_Hgg75pYsPL08Vu1u3X-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-47" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-42" target="E_Hgg75pYsPL08Vu1u3X-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-42" target="E_Hgg75pYsPL08Vu1u3X-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-42" target="E_Hgg75pYsPL08Vu1u3X-74" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="680" y="415" />
+              <mxPoint x="680" y="810" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-82" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-42" target="E_Hgg75pYsPL08Vu1u3X-81" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="670" y="415" />
+              <mxPoint x="670" y="940" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-86" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-42" target="E_Hgg75pYsPL08Vu1u3X-85" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="415" />
+              <mxPoint x="660" y="1100" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-92" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-42" target="E_Hgg75pYsPL08Vu1u3X-90" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="415" />
+              <mxPoint x="630" y="1220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-42" value="Ý thức" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="530" y="390" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-44" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Là sự phản ánh hiện thực khách quan vào trong bộ óc con người 1 cách năng động, sáng tạo&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="760" y="240" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-50" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-46" target="E_Hgg75pYsPL08Vu1u3X-48" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-52" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-46" target="E_Hgg75pYsPL08Vu1u3X-51" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-46" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Nguồn gốc ra đời&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="760" y="310" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-55" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-48" target="E_Hgg75pYsPL08Vu1u3X-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-56" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-48" target="E_Hgg75pYsPL08Vu1u3X-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-48" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Nguồn gốc tự nhiên&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="965" y="280" width="135" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;curved=1;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-51" target="E_Hgg75pYsPL08Vu1u3X-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-51" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Nguồn góc xã hội&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="965" y="390" width="125" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-58" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-53" target="E_Hgg75pYsPL08Vu1u3X-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-53" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Bộ não con người&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="270" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-60" style="edgeStyle=orthogonalEdgeStyle;rounded=1;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;curved=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-54" target="E_Hgg75pYsPL08Vu1u3X-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-54" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Thế giới khách quan&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1180" y="330" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-57" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family: Arial; font-size: 10.5pt; font-weight: 600;&quot;&gt;Ý thức con người là hình thức phản ánh cao nhất. Bộ não người là cái phản ánh khi và chỉ khi có tác động của thế giới đến các cơ quan của con người&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=20;fontFamily=Architects Daughter;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1430" y="280" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-61" value="&lt;font style=&quot;font-size: 17px;&quot; face=&quot;aria&quot;&gt;Lao động sản xuất&lt;br&gt;&lt;br&gt;Giao tiếp với cộng động - Ngôn ngữ&lt;/font&gt;" style="text;fontSize=20;fontFamily=Architects Daughter;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="1190" y="390" width="350" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.053;entryY=1.016;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;curved=1;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-51" target="E_Hgg75pYsPL08Vu1u3X-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-65" target="E_Hgg75pYsPL08Vu1u3X-68" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-65" target="E_Hgg75pYsPL08Vu1u3X-70" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-65" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Bản chất ý thức - hiện thực chủ quan&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="610" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-68" value="Thứ nhất, ý thức là sự phản ánh khách quan, là hình ảnh chủ quan của thế giới khách quan, là hình ảnh tinh thần của vật chất bên ngoài." style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="500" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-70" target="E_Hgg75pYsPL08Vu1u3X-72" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-70" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Thứ hai, ý thức là sự phản ánh hiện thức khách quan vào trong đầu óc con người 1 cách năng động, sáng tạo, tích cực. Là vật chất được chuyển vào trong đầu óc con người và được cái tiến lên. Có thể tiên đoán, dự báo tương lai, tạo ra ảo tưởng, giả thuyết -&amp;gt; là quá trình thống nhất 3 mặt&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="620" width="540" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-72" value="Sự trao đổi thông tin giữa chủ thể và đối tượng mang tính 2 chiều &#xa;Mô hình hóa đối tượng trong tư duy dưới dạng h/a tinh thần, mã hóa các đối tượng vật chất thành các ý tưởng tinh thần phi vật chất &#xa;Chuyển mô hình trong đầu ra hiện thực khách quan" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1810" y="600" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;curved=1;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-74" target="E_Hgg75pYsPL08Vu1u3X-77" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;curved=1;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-74" target="E_Hgg75pYsPL08Vu1u3X-79" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-74" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Cấu trúc ý thức&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="760" y="800" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-77" value="Gồm nhiều yto khác nhau, quan hệ chặt chẽ với nhau. Tiếp cận từ góc độ khác nhau có nhiều cách phân loại khác nhau. Trong đó Tri thức là nhân tố quan trọng nhất, là cơ bản, là cốt lõi" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="720" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-79" value="Niềm tin  và ý chí là 2 yếu tố quyết định, tạo động lực cho hành động thực tiễn, có thể củng cố, hình thành dựa trên nền tảng tri thức" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="800" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-84" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-81" target="E_Hgg75pYsPL08Vu1u3X-83" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-81" value="&lt;font style=&quot;font-size: 13px;&quot;&gt;Ý thức có tính độc lập tương đối, có khả năng tác động lại vật chất chất&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="770" y="920" width="410" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-83" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Thứ nhất, ý thức quyết định quy luật tồn tại và cận động riêng nhất định.&lt;br/&gt;&lt;br&gt;Thứ hai, ý thức có khả năng tác động lại vật chất, làm biến đổi những điều kiện, hoàn cảnh vật chất, thậm chí còn tạo ra &quot;thiên nhiên thứ hai&quot; để phục vụ cuộc sống con người. Thôi thúc tạo động lực từ bên trong cho hành động con người, có thể làm 1 số sạng thức tinh thần trở thành hiện thực&lt;br/&gt;&lt;br&gt;Thứ ba, sự tác động ủa ý thức tạo nên trên cơ sở tri thức của con người đạt được. Tri thức đúng đắn, sáng tạo -&amp;gt; quyết định làm hoạt động con người trở nên đúng đắn, sức mạnh được nhân lên gấp bội&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1275" y="870" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-88" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-85" target="E_Hgg75pYsPL08Vu1u3X-87" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-85" value="Ý thức tác động vật chật theo 2 chiều hướng" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="770" y="1080" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-87" value="Tích cực: Khi con người có tri thức khoa học, tình cảm tích cực, niềm tin, ý chí quyết tâm &#xa;Thứ ba, sự phản ánh của ý thức mang tính chất xã hội. Theo C.M ngay từ đầu, ý thức đã là 1 sản phẩm xã hội, bắt nguồn từ thực tiễn xã hội, phản ánh những điều kiện tồn tại và các quan hệ xã hội vận như vậy chừng nào con người còn tồn tại. &#xa;Tiêu cực: Khi cn người hiểu sai, tình cảm tiêu cực, thiếu niềm tin, thiếu ý chí" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1280" y="1030" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-94" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-90" target="E_Hgg75pYsPL08Vu1u3X-93" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-90" value="Ý nghĩa PPL" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="770" y="1200" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-93" value="Cần phát huy tính năng động chủ quan -&gt; giáo dục nhận thức tư tưởng &#xa;Tránh chủ quan, bảo thủ trí tuệ" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="965" y="1190" width="440" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-101" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-97" target="E_Hgg75pYsPL08Vu1u3X-100" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-123" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-97" target="E_Hgg75pYsPL08Vu1u3X-122" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-97" value="Phép biện chứng duy vật" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="1710" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-103" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-100" target="E_Hgg75pYsPL08Vu1u3X-102" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-106" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-100" target="E_Hgg75pYsPL08Vu1u3X-104" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-118" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-100" target="E_Hgg75pYsPL08Vu1u3X-117" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-100" value="Phép biện chứng" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="680" y="1370" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-102" value="Khái niệm: Là khoa học ( là hệ thống) về những quy luật phổ biến của sự vận động và sự phát triển của tự nhiên, của xã hội loài người và của tư duy" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1050" y="1260" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-109" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-104" target="E_Hgg75pYsPL08Vu1u3X-108" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-111" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-104" target="E_Hgg75pYsPL08Vu1u3X-110" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-114" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-104" target="E_Hgg75pYsPL08Vu1u3X-113" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-104" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Các hình thức cơ bản&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1380" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-116" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-108" target="E_Hgg75pYsPL08Vu1u3X-115" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-108" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Là học thuyết về MLH phổ biến &amp;amp; PT -&amp;gt; PBC duy vật TGQ: DV - PPL: BC &lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1330" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-110" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;BC của ý niệm -&amp;gt; BC của sự vật -&amp;gt; PBC duy tâm PPL: BC - TGQ: DT&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1400" width="440" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-113" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Vũ trụ vận động biến hóa -&amp;gt; PBC cổ đại Trực quan, tự phát&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1470" width="380" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-115" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Là hình thức phát triển cao nhất vì nó thể hiện một cách khái quát nội dung của phép biện chứng duy vật&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1970" y="1320" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-120" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-117" target="E_Hgg75pYsPL08Vu1u3X-119" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-117" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Cấu trúc phép BC duy vật&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1610" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-119" value="Biện chứng khách quan: Chỉ biện chứng của bản thân thế giới tồn tại khách quan, độc lập với ý thưc con người - Là sự liên hệ, tương tác, chuyển hóa và vận động, biến đổi không ngừng của thế giới vật chất.&lt;br/&gt;&lt;br&gt;&lt;br&gt;Biện chứng chủ quan: Chỉ biện chứng của tư duy con người, là quá trình phản ánh hiện thực khách quan một cách biện chứng. BC chủ quan 1 mặt phản ánh tính biện chứng của thế giới khách quan, mặt khác phản ánh những quy luật của tư duy." style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1360" y="1560" width="560" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-121" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.002;entryY=0.844;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-117" target="E_Hgg75pYsPL08Vu1u3X-119" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-125" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-122" target="E_Hgg75pYsPL08Vu1u3X-124" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-131" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-122" target="E_Hgg75pYsPL08Vu1u3X-130" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-135" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-122" target="E_Hgg75pYsPL08Vu1u3X-134" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-122" value="Phép BC duy vật (2 nguyên lý)" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="640" y="2040" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-127" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-124" target="E_Hgg75pYsPL08Vu1u3X-126" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-129" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-124" target="E_Hgg75pYsPL08Vu1u3X-128" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-124" value="Nguyên lý về mối liên hệ phổ biến" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1810" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-126" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Quan điểm toàn diện khẳng định: Để hiểu rõ bản chất cần xem xét nó trong sự liên hệ, tác động qua lại giữa sự vật ấy vs các sự vật khác hoặc giữa các yếu tố của cùng một sự vật hiện tượng tạo thành từ nhiều yếu tố và luôn tồn tại trong nhiều mối liên hệ. Cần đánh giá đúng vị trí, vai trò của từng mối liên hệ, phát triển của sự vật. Khi tác động cần phối hợp đồng bộ logic, trình tự. Trong nhận thức và hoạt động cần tránh hạn chế của chủ nghĩa chiết trung hoặc ngụy biện&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="1720" width="560" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-128" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Quan điểm lịch sử-cụ thể khẳng định: Cần đặt sự vật trong thời gian, không gian nhất định gắn với quá trình tồn tại, phát triển ở sự vật. Khi nhận thức và xử lý tình huống cần xét đến tính chất đặc thù của đối tượng. Xác định đúng vị trí, vai trò của mỗi mối liên hệ trong hoàn cảnh lịch sử -&amp;gt; tìm ra phương pháp giải quyết hợp lý, hiệu quả và linh hoạt giải quyết vấn đề&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="1850" width="560" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-133" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-130" target="E_Hgg75pYsPL08Vu1u3X-132" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-130" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Nguyên lý về sự phát triển&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="1950" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-132" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Quan điểm về phát triển của chủ nghĩa DVBC: Diễn ra vừa tuần tự, vừa có bước nhảy vọt, quanh co, phức tạp, thậm chí thụt lùi. Theo quan điểm BC, phát triển diễn ra theo đường xoắn ốc. Nguồn gốc phát triển ở trong sự vật, là kết quả của quá trình giải quyết mâu thuẫn biện chứng cơ bản ở sự vật. Quá trình phát triển luôn bao hàm tính kế thừa, những nhân tố tích cực của giai đoạn trước làm nền tảng cho những tiến bộ sau này&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1480" y="1940" width="560" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-137" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-134" target="E_Hgg75pYsPL08Vu1u3X-136" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-141" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-134" target="E_Hgg75pYsPL08Vu1u3X-140" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-145" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-134" target="E_Hgg75pYsPL08Vu1u3X-144" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-148" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-134" target="E_Hgg75pYsPL08Vu1u3X-146" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-150" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-134" target="E_Hgg75pYsPL08Vu1u3X-149" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-153" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-134" target="E_Hgg75pYsPL08Vu1u3X-151" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-163" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-134" target="E_Hgg75pYsPL08Vu1u3X-162" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-173" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-134" target="E_Hgg75pYsPL08Vu1u3X-172" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-187" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-134" target="E_Hgg75pYsPL08Vu1u3X-186" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-134" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;3 quy luật&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1040" y="2580" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-136" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Vai trò&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="2080" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-138" value="Quy luật thống nhất và đấu tranh của các mặt đối lập: Chỉ ra nguồn gốc, động lực cơ bản, phổ biến của mọi quá trình vận động và phát triển. &#xa;Quy luật chuyển hóa từ những sự thay đổi về lượng thành những thay đổi về chất và ngược lại: Chỉ ra cách thức của sự vận động phát triển của sự vật, hiện tượng, tức là quá trình phát triển từ lượng đến chất và ngược lại &#xa;Quy luật phủ định của phủ định: Nói lên khuynh hướng vận động, phát triển ở sự vật, hiện tượng" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1670" y="2040" width="560" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-140" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Chất: Là phạm trù triết học chỉ tính quy định khách quan vốn có của sự vật, hiện tượng; là sự thống nhất hữu cơ của các thuộc tính cấu thành nó, phân biệt nó với cái khác&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="2200" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-143" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.004;entryY=0.371;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-136" target="E_Hgg75pYsPL08Vu1u3X-138" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-144" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Đặc điểm của chất: Là các thuộc tính khách quan vốn có của sự vật nhưng không đồng nhất với khái niệm thuộc tính. Mỗi sự vật, hiện tượng đều có những thuộc tính cơ bản và không cơ bản.  Chất của sự vật được quy định bởi những thuộc tính cơ bản của sự vật đó&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="2290" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-146" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Lượng: Là phạm trù triết học dùng để chỉ tính quy định khách quan vốn có của sự vật về các phương diện: Số lượng các yếu tố cấu thành, quy mô của sự tồn tại, tốc độ, nhịp điệu của các quá trình vận động, phát triển.&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="2400" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-149" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Đặc điểm của lượng: Lượng là khách quan, quy định về sự vật, bên trong sự vật. Biểu hiện ở những đại lượng mang tính chính xác, hoặc ở những đại lượng mang tính trừu tượng khái quát. Lượng  gắn liền với cấu trúc, có tính phổ biến&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="2500" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-158" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-151" target="E_Hgg75pYsPL08Vu1u3X-154" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-159" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-151" target="E_Hgg75pYsPL08Vu1u3X-155" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-160" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-151" target="E_Hgg75pYsPL08Vu1u3X-156" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-161" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-151" target="E_Hgg75pYsPL08Vu1u3X-157" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-151" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Chất và lượng&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="2690" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-154" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Bất kỳ sự vật hay hiện tượng nào cũng là sự thống nhất giữa mặt chất và mặt lượng, chúng tác động qua lại lẫn nhau, chúng tồn tại trong tính quy định lẫn nhau: tương ứng với một loại lượng nhất định thì cũng có một loại chất tương ứng và ngược lại&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="2560" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-155" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Độ chỉ tính quy định, mối liện hệ thống nhất giữa chất và lượng, độ là khoảng giới hạn mà trong đó sự thay đổi về lượng chưa làm thay đổi căn bản chất của sự vật, hiện tượng&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="2640" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-156" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;điểm nút là thời điểm mà tại đó sự thay đổi về lượng đã đủ làm thay đổi về chất của sự vật.&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="2710" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-157" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;sự phát triển của bất cứ của sự vật nào cũng bắt đầu từ sự tích luỹ về lượng trong độ nhất định cho tới điểm nút để thực hiện bước nhảy về chất&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="2760" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-165" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-162" target="E_Hgg75pYsPL08Vu1u3X-164" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-167" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-162" target="E_Hgg75pYsPL08Vu1u3X-166" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-169" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-162" target="E_Hgg75pYsPL08Vu1u3X-168" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-171" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-162" target="E_Hgg75pYsPL08Vu1u3X-170" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-162" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Ý nghĩa PPL&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="2940" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-164" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Tôn trọng khuynh hướng tiến lên ở sự vật, sự thống nhất giữa tính tiến bộ và tính kế thừa của sự phát triển&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="2870" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-166" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Nhận thức đúng xu hướng phát triển là quá trình quanh co, phức tạp ở sv&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="2950" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-168" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Tránh thái độ phủ định sạch trơn, kế thừa chọn lọc, cải tạo cái cũ hợp lý&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="3010" width="460" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-170" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Phát hiện, ủng hộ, dấu tranh cách mới đích thực, tránh bảo thủ, giáo điều, nhầm lầm cái mới giả tạo hình thức&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="3070" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-175" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-172" target="E_Hgg75pYsPL08Vu1u3X-174" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-177" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-172" target="E_Hgg75pYsPL08Vu1u3X-176" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-179" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-172" target="E_Hgg75pYsPL08Vu1u3X-178" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-181" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-172" target="E_Hgg75pYsPL08Vu1u3X-180" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-183" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-172" target="E_Hgg75pYsPL08Vu1u3X-182" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-185" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-172" target="E_Hgg75pYsPL08Vu1u3X-184" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-172" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Mâu thuẫn BC&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="3400" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-174" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;KN:  một trạng thái mà mặt đối lập liên hệ, chúng có tác động qua lại với nhau, theo đó mâu thuẫn biện chứng thông thường sẽ được tồn tại một cách khách quan, phổ biến ở trong xã hội, tư duy và tự nhiên&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="3160" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-176" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Mặt đối lập là những mặt có những đặc điểm, những thuộc tính, những tính quy định có khuynh hướng biến đổi trái ngược nhau tồn tại một cách khách quan trong tự nhiên, xã hội và tư duy. Sự tồn tại các mặt đối lập là khách quan và là phổ biến trong thế giới.&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="3250" width="560" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-178" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt; Sự thống nhất của các mặt đối lập là sự nương tựa lẫn nhau, tồn tại không tách rời nhau giữa các mặt đối lập, sự tồn tại của mặt này phải lấy sự tồn tại của mặt kia làm tiền đề. Các mặt đối lập tồn tại không tách rời nhau nên giữa chúng bao giờ cũng có những nhân tố giống nhau&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="3340" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-180" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Đấu tranh của các mặt đối lập là sự tác động qua lại theo xu hướng bài trừ và phủ định lẫn nhau giữa các mặt đó. Hình thức đấu tranh của các mặt đối lập hết sức phong phú, đa dạng, tuỳ thuộc vào tính chất, vào mối liên hệ qua lại giữa các mặt đối lập và tuỳ điều kiện cụ thể diễn ra cuộc đấu tranh giữa chúng.&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="3440" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-182" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Mâu thuẫn bên trong có vai trò quyết định trực tiếp đối với quá trình vận động và phát triển của sự vật.&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="3560" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-184" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;ý nghĩa PPL:  Để nhận thức được ban chất của sự vật hoặc tìm ra phương hướng, giải pháp cho hoạt động thực tiễn cần phải nghiên cứu mâu thuẫn sự vật. Việc nghiên cứu quy luật thống nhất và đấu tranh giữa các mặt đối lập hay quy luật mâu thuẫn có ý nghĩa quan trọng đối với nhận thực, hoạt động thực tiễn. Bởi mâu thuận là động lực và cùng là nguồn gốc của sự vận động, phát triển, có tính khách quan phổ biến.&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="3630" width="560" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-189" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-186" target="E_Hgg75pYsPL08Vu1u3X-188" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-191" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-186" target="E_Hgg75pYsPL08Vu1u3X-190" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-193" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-186" target="E_Hgg75pYsPL08Vu1u3X-192" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-199" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-186" target="E_Hgg75pYsPL08Vu1u3X-198" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-201" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-186" target="E_Hgg75pYsPL08Vu1u3X-200" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-186" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Phủ định BC&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="3860" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-188" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;là phạm trù triết học dùng để chỉ sự thay thế, bác bỏ đặc điểm, yếu tố, hiện tượng, sự vật, quá trình.&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="3760" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-190" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;PDBC là sự phủ định tự thân, tạo ra hiện tượng mới, tiến bộ hơn trước&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="3840" width="450" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-195" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-192" target="E_Hgg75pYsPL08Vu1u3X-194" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-192" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;TC của sự phủ định&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="3930" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-194" value="Tính khách quan &#xa;Tính phổ biến &#xa;Tính kế thừa" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1940" y="3900" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-198" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Sự vận động chỉ cần trải qua 2 lần phủ định là đúng.&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="4010" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-200" value="&lt;p style=&quot;margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot;font-family:&#39;Arial&#39;; font-size:10pt; color:#454545;&quot;&gt;Ý nghĩa PPL: tránh được cách nhìn phiến diện, giản đơn trong việc nhận thức các sự vật, hiện tượng, đặc biệt là các hiện tượng xã hội, và do vậy cần phải kiên trì đổi mới, khắc phục khuynh hướng bi quan, chán nản, dao động trước những khó khăn của sự phát triển.&lt;/span&gt;&lt;/p&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="4090" width="560" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-209" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-203" target="E_Hgg75pYsPL08Vu1u3X-207" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-216" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-203" target="E_Hgg75pYsPL08Vu1u3X-215" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-244" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-203" target="E_Hgg75pYsPL08Vu1u3X-243" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-203" value="Lý luận nhận thức" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="4710" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-212" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-207" target="E_Hgg75pYsPL08Vu1u3X-211" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-207" value="Nhận thức" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="720" y="4300" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-211" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Nhận thức là một quá trình phản ánh được tính tích cực, tự giác và sáng tạo thế giới khách quan vào bộ óc của con người dựa trên cơ sở thực tiễn. Qua đó nhằm mục đích sáng tạo ra những tri thức về thế giới khách quan.&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="4190" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-213" value="Triết học MLN khẳng định con người&amp;nbsp; có khả năng nhận thức&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="4280" width="370" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-214" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.007;entryY=0.6;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-207" target="E_Hgg75pYsPL08Vu1u3X-213" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-219" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-215" target="E_Hgg75pYsPL08Vu1u3X-217" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-220" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-215" target="E_Hgg75pYsPL08Vu1u3X-218" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-222" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-215" target="E_Hgg75pYsPL08Vu1u3X-221" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-224" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-215" target="E_Hgg75pYsPL08Vu1u3X-223" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-226" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-215" target="E_Hgg75pYsPL08Vu1u3X-225" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-228" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-215" target="E_Hgg75pYsPL08Vu1u3X-227" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-230" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-215" target="E_Hgg75pYsPL08Vu1u3X-229" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-232" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-215" target="E_Hgg75pYsPL08Vu1u3X-231" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-234" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-215" target="E_Hgg75pYsPL08Vu1u3X-233" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-238" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-215" target="E_Hgg75pYsPL08Vu1u3X-236" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-215" value="Cảm thức và nhận thức lý tính" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="720" y="4700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-217" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Nhận thức cảm tính: giai đoạn đầu tiên của quá trình nhận thức, được thể hiện dưới 3 hình thức Cảm giác, tri giác, biểu tượng&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="4400" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-218" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Sự khác nhau:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Cảm giác: sử dụng từng giác quan&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Trị giác: dùng nhiều giác quan&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Biểu tượng: Không tiếp xúc trực tiếp&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="4480" width="270" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-221" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Cung cấp thông tin đa dạng, sinh động, khách quan -&amp;gt; làm nền tảng cho nhận thức lý tính cao hơn&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="4600" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-223" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Chưa phản ánh bản chất sâu sắc ở sự vật -&amp;gt; đặt ra yêu cầu bước sang nhận thức lý tính&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="4680" width="560" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-225" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Nhận thức lý tính: giai đoạn cao hơn của nhận thức, nảy sinh trên cơ sở nhận thức cảm tính. Là sự phản ánh khái quát và gián tiếp thực hiện khách quan. Cốt lõi của nhận thức lý tính là tư duy. Nhận thức lý tính thể hiện ở các hình thức như: Khái niệm, phán đoán, suy lý.&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="4760" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-227" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Sự khác nhau:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Khái niệm: Khái quát đặc điểm của 1 lớp&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Phán đoán: Là sự liên kết các khái niệm&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Suy luận: Là sự liên kết các phán đoán&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="4860" width="560" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-229" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Khái quát được đặc điểm bản chất sự vật, tiến bộ hơn so với nhận thức cảm tính&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="4980" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-231" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Nhược: Vẫn phải dựa trên nhận thức cảm tính&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="5040" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-233" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;=&amp;gt;Tri thức mới rút ra từ NTLT là đúng đắn vì: Phán đoán mới dựa theo nguyên tắc suy luận nhất định&amp;nbsp;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="5110" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-240" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-236" target="E_Hgg75pYsPL08Vu1u3X-239" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-242" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-236" target="E_Hgg75pYsPL08Vu1u3X-241" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-236" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Ý nghĩa PPL:&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="5240" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-239" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Cần:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Phát huy vai trò của NTCT để có tiền đề dữ liệu cho NTLT&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Phát huy vai trò của NTLT, để định hướng cho NTCT đúng đắn hơn&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="5170" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-241" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Tránh:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Chủ nghĩa duy cảm&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Chủ nghĩa duy lý&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="5290" width="560" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-247" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-243" target="E_Hgg75pYsPL08Vu1u3X-246" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-264" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-243" target="E_Hgg75pYsPL08Vu1u3X-263" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-280" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-243" target="E_Hgg75pYsPL08Vu1u3X-279" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-243" value="Nhận thức với thực tiễn" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="720" y="5700" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-245" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Thực tiễn: là toàn bộ những hoạt động vật chất - cảm tính, có tính lịch sử xã hội của con người nhằm cải tạo tự nhiên và xã hội phục vụ nhân loại tiến bộ&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="5400" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-248" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-246" target="E_Hgg75pYsPL08Vu1u3X-245" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-251" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-246" target="E_Hgg75pYsPL08Vu1u3X-250" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-262" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-246" target="E_Hgg75pYsPL08Vu1u3X-261" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-246" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Thực tiễn&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="5510" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-256" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-250" target="E_Hgg75pYsPL08Vu1u3X-252" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-257" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-250" target="E_Hgg75pYsPL08Vu1u3X-253" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1660" y="5545" />
+              <mxPoint x="1660" y="5530" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-258" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-250" target="E_Hgg75pYsPL08Vu1u3X-255" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-250" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Các hình thức thực tiễn cơ bản&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1395" y="5530" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-260" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-252" target="E_Hgg75pYsPL08Vu1u3X-259" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-252" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Hoạt động sản xuất vật chất&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="5460" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-253" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Hoạt động chính trị xã hội&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="5520" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-255" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Hoạt động thực nghiệm khoa học&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1740" y="5580" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-259" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Là hoạt động có sớm nhất, cơ bản và quan trọng nhất&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="2080" y="5450" width="400" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-261" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Vai trò thực tiễn vs nhận thức:&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Thực tiễn là cơ sở, động lực của nhận thức&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Thực tiễn là mục đích của nhận thực&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Thực tiễn là tiêu chuẩn để kiểm tra chân lý&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="5640" width="410" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-266" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-263" target="E_Hgg75pYsPL08Vu1u3X-265" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-268" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-263" target="E_Hgg75pYsPL08Vu1u3X-267" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-278" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-263" target="E_Hgg75pYsPL08Vu1u3X-277" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-263" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Chân lý&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="5900" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-265" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Chân lý là tri thức phù hợp với hiện thực khách quan mà con người phản ánh và được thực tiễn kiểm nghiệm&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="5770" width="560" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-270" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-267" target="E_Hgg75pYsPL08Vu1u3X-269" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-273" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-267" target="E_Hgg75pYsPL08Vu1u3X-271" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-275" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-267" target="E_Hgg75pYsPL08Vu1u3X-274" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-267" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Các tính chất của chân lý&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="5900" width="195" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-269" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Tính khách quan&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="5840" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-271" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Tính tương đối và tính tuyệt đối&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="5910" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-274" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Tính cụ&amp;nbsp; thể&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1720" y="5980" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-277" value="&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Arial&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Vai trò nhận thức chân lý với thực tiễn:&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify; font-size: 16px;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot; face=&quot;Arial&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;&lt;span style=&quot;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;Làm phát sinh và phát triển hoạt động nhận thức của con người&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;white-space: pre; background-color: rgb(255, 255, 255); font-family: Arial;&quot;&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Cải biến môi trường tự nhiên và xã hội, đồng thời cũng qua đó con người thực hiện một cách tự giác hay không tự giác quá trình hoàn thiện và phát triển chính bản thân mình.&lt;/font&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1400" y="6040" width="680" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-282" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-279" target="E_Hgg75pYsPL08Vu1u3X-281" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-284" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=13;fontColor=default;endArrow=classic;" parent="1" source="E_Hgg75pYsPL08Vu1u3X-279" target="E_Hgg75pYsPL08Vu1u3X-283" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-279" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;font face=&quot;Arial&quot;&gt;&lt;span style=&quot;font-size: 16px; background-color: rgb(255, 255, 255);&quot;&gt;Ý nghĩa PPL&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1080" y="6300" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-281" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Cần:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Có quan điểm thực tiễn: Xuất phát từ thực tiễn để đánh giá, tổng kết, từ đó có những đề xuất nghiên cứu cho phù hợp&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Chú trọng nhận thức lý luận khoa học&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="6160" width="460" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E_Hgg75pYsPL08Vu1u3X-283" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Arial; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: justify; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;Tránh:&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Tuyệt đối hóa vai trò của thực tiễn -&amp;gt; chủ nghĩa kinh nghiệm&lt;br&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Tuyệt hóa vai trò của lý luận -&amp;gt; chủ nghĩa kinh viện (lý thuyết suông)&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;fontSize=13;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="1320" y="6320" width="740" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
